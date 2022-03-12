@@ -1,0 +1,11 @@
+/***
+1 Steep Single.php
+First: Comment Section
+
+2 Steep Contact Page
+Seciound: Google Maps
+Thard: Contact Form
+
+3 Steep Footer Section
+Forth: Social Icon
+**/
